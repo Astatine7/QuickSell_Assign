@@ -1,5 +1,5 @@
-## Project View
+## Preview
 
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799526/test/quickSell2_pjyru9.png)</kbd>
-
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799514/test/quickSell_nycbcs.png)</kbd>
+![Desktop Screenshot 1](.public/preview/Desktop-1.png)
+![Desktop Screenshot 2](.public/preview/Desktop-2.png)
+![Mobile Screenshot 1](.public/preview/Mobile-1.png)
